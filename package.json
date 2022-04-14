@@ -1,0 +1,10 @@
+{
+  "name": "blockchain-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Vithushan Logeswaran <2018csc042@univ.jfn.ac.lk>",
+  "license": "MIT",
+  "devDependencies": {
+    "hardhat": "^2.9.3"
+  }
+}
